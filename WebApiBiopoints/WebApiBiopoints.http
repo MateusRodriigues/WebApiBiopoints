@@ -1,0 +1,6 @@
+@WebApiBiopoints_HostAddress = http://localhost:5099
+
+GET {{WebApiBiopoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
